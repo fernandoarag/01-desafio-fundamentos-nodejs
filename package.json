@@ -1,0 +1,16 @@
+{
+	"name": "01-desafio-fundamentos-nodejs",
+	"version": "1.0.0",
+	"description": "Ignite - Desafio Fundamentos do NodeJs",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "node --watch src/server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+    "csv-parse": "^5.3.3"
+	}
+}
