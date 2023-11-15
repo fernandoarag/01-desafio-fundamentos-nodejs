@@ -42,7 +42,7 @@ Rotas:
     
     Ao criar uma task, os campos: `id`, `created_at`, `updated_at` e `completed_at` devem ser preenchidos automaticamente, conforme a orientação das propriedades acima.
 
-  - `POST - /tasks/import`
+- `POST - /tasks/import`
     
     Importará todas as tasks contidas no arquivo task.csv na pasta streams
     
